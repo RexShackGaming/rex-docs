@@ -9,11 +9,31 @@ I aim to provide an addtional foundation for RedM servers, offering various feat
 - [Buy on Tebex](https://rexshackgaming.tebex.io/package/7070038)
 - [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-camping)
 
+# REX Farming
+- A comprehensive farming system for RedM that allows players to plant, grow, and harvest crops with a dynamic growth system including thirst, hunger, and quality mechanics.
+- [Buy on Tebex](https://rexshackgaming.tebex.io/package/7094654)
+- [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-farming)
+
+# REX Hunting Wagon
+- A comprehensive hunting wagon system for RedM RSG Framework
+- [Buy on Tebex](https://rexshackgaming.tebex.io/package/7091688)
+- [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-huntingwagon)
+
+# REX Market
+- A comprehensive RedM script for RSG Framework that allows players to create, manage, and trade at their own portable market stalls. Built with performance and stability in mind, this script provides a complete marketplace experience for your RedM server.
+- [Buy on Tebex](https://rexshackgaming.tebex.io/package/7071958)
+- [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-market)
+
+# REX Town Hall
+- A comprehensive job management system for RedM servers using the RSG Framework. This resource provides a user-friendly town hall interface where players can apply for various jobs, manage their employment status, and track their career progression.
+- [Buy on Tebex](https://rexshackgaming.tebex.io/package/7090648)
+- [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-townhall)
+
 # Support
 - Join our Discord: https://discord.gg/YUV7ebzkqs
 - Check our YouTube for tutorials: https://www.youtube.com/@rexshack/videos
 
-## 💝 Support the Developer
+# 💝 Support the Developer
 **Purchase Premium Resources:** https://rexshackgaming.tebex.io/
 
 Your support helps fund continued development and new features!
