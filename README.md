@@ -7,7 +7,7 @@ I aim to provide an addtional foundation for RedM servers, offering various feat
 # REX Camping System
 - A comprehensive camping system for RedM servers that allows players to set up campsites with various features including cooking, crafting, storage, and more.
 - [Buy on Tebex](https://rexshackgaming.tebex.io/package/7070038)
-- [Features & Instructions](https://github.com/Rexshack-RedM/rex-docs/blob/main/rex-camping.md)
+- [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-camping)
 
 # Support
 - Join our Discord: https://discord.gg/YUV7ebzkqs
