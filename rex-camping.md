@@ -1,9 +1,10 @@
 # REX Camping System
 A comprehensive camping system for RedM servers that allows players to set up campsites with various features including cooking, crafting, storage, and more.
 
-**Version:** 2.2.3  
 **Game:** RedM (RDR3)  
-**Framework:** RSG Framework
+**Framework:** RSG Framework (ONLY)
+
+[![REX Camping System](https://img.youtube.com/vi/-EQriAihm7E/0.jpg)](https://www.youtube.com/watch?v=-EQriAihm7E)
 
 ## 🌐 Links
 - **Discord:** https://discord.gg/YUV7ebzkqs
@@ -55,17 +56,6 @@ CREATE TABLE IF NOT EXISTS `rex_camping` (
   `allowed_players` text DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-```
-
-#### Updating from Older Version
-If you already have rex-camping installed, run the migration:
-```sql
--- Run this to add the guest system
-source path/to/rex-camping/installation/update_add_guests.sql
-```
-Or manually:
-```sql
-ALTER TABLE `rex_camping` ADD COLUMN `allowed_players` text DEFAULT NULL;
 ```
 
 ### 3. Add Items to RSG-Core
@@ -156,8 +146,6 @@ Campsite owners can add other players as guests:
    - Return to "Manage Guests" menu
    - Click on the guest to remove
    - Confirm the removal
-
-For detailed guest system documentation, see [GUEST_SYSTEM.md](GUEST_SYSTEM.md)
 
 ## ⚙️ Configuration
 
