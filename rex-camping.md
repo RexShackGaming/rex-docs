@@ -4,7 +4,7 @@ A comprehensive camping system for RedM servers that allows players to set up ca
 **Game:** RedM (RDR3)  
 **Framework:** RSG Framework (ONLY)
 
-[![REX Camping System](https://img.youtube.com/vi/-EQriAihm7E/0.jpg)](https://www.youtube.com/watch?v=-EQriAihm7E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-EQriAihm7E" frameborder="0" allowfullscreen></iframe>
 
 ## 🌐 Links
 - **Discord:** https://discord.gg/YUV7ebzkqs
