@@ -225,5 +225,5 @@ Your support helps fund continued development and new features!
 
 ---
 
-**Developed by Rex Shack Gaming**  
+**Developed by RexShackGaming**  
 *Making RedM servers better, one script at a time* 🤠
