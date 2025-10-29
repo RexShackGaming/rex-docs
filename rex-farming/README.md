@@ -13,7 +13,7 @@ A comprehensive farming system for RedM that allows players to plant, grow, and 
 - **Plant Ownership**: Optional owner-only harvesting
 
 ### 💧 Water Collection System
-- Collect water from wells and water troughs
+- Collect water from wells, water troughs and rivers
 - Fill empty buckets to water your plants
 - Multiple compatible water prop types
 
