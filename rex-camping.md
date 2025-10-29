@@ -4,7 +4,9 @@ A comprehensive camping system for RedM servers that allows players to set up ca
 **Game:** RedM (RDR3)  
 **Framework:** RSG Framework (ONLY)
 
-[![Watch the video](https://img.youtube.com/vi/-EQriAihm7E/hqdefault.jpg)](https://www.youtube.com/watch?v=-EQriAihm7E)
+<a href="https://www.youtube.com/watch?v=-EQriAihm7E" target="_blank">
+  <img src="https://img.youtube.com/vi/-EQriAihm7E/hqdefault.jpg" alt="Watch the video" width="800" />
+</a>
 
 ## 🌐 Links
 - **Discord:** https://discord.gg/YUV7ebzkqs
