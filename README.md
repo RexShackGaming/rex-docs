@@ -29,6 +29,11 @@ I aim to provide an addtional foundation for RedM servers, offering various feat
 - [Buy on Tebex](https://rexshackgaming.tebex.io/package/7090648)
 - [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-townhall)
 
+# REX Wanted
+- A dynamic wanted/outlaw system for RedM that spawns bounty hunters to pursue players with high outlaw status.
+- [Buy on Tebex](https://rexshackgaming.tebex.io/package/7099128)
+- [Features & Instructions](https://github.com/RexShackGaming/rex-docs/tree/main/rex-wanted)
+
 # Support
 - Join our Discord: https://discord.gg/YUV7ebzkqs
 - Check our YouTube for tutorials: https://www.youtube.com/@rexshack/videos
