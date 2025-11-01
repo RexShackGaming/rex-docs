@@ -1,4 +1,4 @@
-# rex-wanted
+# REX Wanted
 
 A dynamic wanted/outlaw system for RedM that spawns bounty hunters to pursue players with high outlaw status.
 
@@ -87,9 +87,3 @@ Key configuration options in `shared/config.lua`:
 - **Discord**: https://discord.gg/YUV7ebzkqs
 - **YouTube**: https://www.youtube.com/@rexshack/videos
 - **Tebex**: https://rexshackgaming.tebex.io/
-
-## Version
-Current Version: **2.1.0**
-
-## License
-This resource includes escrow-protected files. See `fxmanifest.lua` for escrow ignore list.
