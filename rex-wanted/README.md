@@ -33,7 +33,7 @@ ensure rsg-core
 
 ### Step 3: Configure
 1. Open `shared/config.lua` and customize settings:
-   - Set `Config.OutlawTriggerAmount` (default: 20)
+   - Set `Config.OutlawTriggerAmount` (default: 100)
    - Configure Discord webhook URL if desired
    - Adjust NPC spawn settings and locations
 2. Review `installation/DISCORD_WEBHOOK_README.md` for webhook setup
