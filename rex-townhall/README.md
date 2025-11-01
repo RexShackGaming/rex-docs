@@ -303,7 +303,7 @@ Check out more free resources on our GitHub and Discord!
 
 ## 📄 License
 
-This project is provided as-is for use with RedM servers. Please respect the author's work and provide credit when using or modifying this resource.
+<a href="https://github.com/RexShackGaming">RexShackGaming</a> © 2025 by <a href="https://github.com/RexShack">RexShack</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ---
 
