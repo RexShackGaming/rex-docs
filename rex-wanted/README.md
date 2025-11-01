@@ -77,7 +77,7 @@ For detailed export documentation and integration examples, see `installation/EX
 
 Key configuration options in `shared/config.lua`:
 - `Config.WantedSystemActive`: Enable/disable the wanted system
-- `Config.OutlawTriggerAmount`: Outlaw status threshold to trigger bounty hunters (default: 20)
+- `Config.OutlawTriggerAmount`: Outlaw status threshold to trigger bounty hunters (default: 100)
 - `Config.ClearWantedOnDeath`: Clear outlaw status when player dies (default: true)
 - `Config.MaxSpawnedPedsPerPlayer`: Maximum bounty hunters per player (default: 10)
 - `Config.Discord.Enabled`: Enable Discord webhook logging
