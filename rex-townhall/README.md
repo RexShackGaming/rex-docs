@@ -1,9 +1,5 @@
 # 🏛️ Rex Townhall
 
-[![Discord](https://img.shields.io/discord/1176609103410376714?color=7289da&logo=discord&logoColor=white)](https://discord.gg/YUV7ebzkqs)
-[![Version](https://img.shields.io/badge/version-2.1.2-blue.svg)](https://github.com/yourusername/rex-townhall)
-[![Game](https://img.shields.io/badge/game-RedM-red.svg)](https://redm.net/)
-
 A comprehensive job management system for RedM servers using the RSG Framework. This resource provides a user-friendly town hall interface where players can apply for various jobs, manage their employment status, and track their career progression.
 
 ## 📋 Table of Contents
@@ -303,7 +299,7 @@ Check out more free resources on our GitHub and Discord!
 
 ## 📄 License
 
-<a href="https://github.com/RexShackGaming">RexShackGaming</a> © 2025 by <a href="https://github.com/RexShack">RexShack</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/RexShackGaming">RexShackGaming</a> © 2025 by <a href="https://github.com/RexShack">RexShack</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 ---
 
