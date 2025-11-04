@@ -6,6 +6,7 @@
 * [rex-farming](https://github.com/RexShackGaming/rex-docs/blob/main/rex-farming/DOCUMENTATION.md)
 * [rex-huntingwagon](https://github.com/RexShackGaming/rex-docs/blob/main/rex-huntingwagon/DOCUMENTATION.md)
 * [rex-market](https://github.com/RexShackGaming/rex-docs/blob/main/rex-market/DOCUMENTATION.md)
+* [rex-storage](https://github.com/RexShackGaming/rex-docs/blob/main/rex-storage/DOCUMENTATION.md)
 
 **Developed by RexShack Gaming**  
 *Making RedM servers better, one script at a time* 🤠
