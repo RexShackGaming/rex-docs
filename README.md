@@ -2,10 +2,10 @@
 
 # Documentation
 
-* [rex-camping]
-* [rex-farming]
-* [rex-huntingwagon]
-* [rex-market]
+* [rex-camping](https://github.com/RexShackGaming/rex-docs/blob/main/rex-camping/DOCUMENTATION.md)
+* [rex-farming](https://github.com/RexShackGaming/rex-docs/blob/main/rex-farming/DOCUMENTATION.md)
+* [rex-huntingwagon](https://github.com/RexShackGaming/rex-docs/blob/main/rex-huntingwagon/DOCUMENTATION.md)
+* [rex-market](https://github.com/RexShackGaming/rex-docs/blob/main/rex-market/DOCUMENTATION.md)
 
 **Developed by RexShack Gaming**  
 *Making RedM servers better, one script at a time* 🤠
