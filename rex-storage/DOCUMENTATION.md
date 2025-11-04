@@ -445,7 +445,7 @@ For issues, suggestions, or contributions:
 
 - **Framework:** RSG Core
 - **Libraries:** ox_lib, oxmysql, ox_target
-- **Developer:** Rexshack Studios
+- **Developer:** RexshackGaming
 
 ## License
 
